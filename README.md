@@ -1,5 +1,8 @@
 # FinOps Excel Splitter
 
+@2026 Calin Mihai-Catalin
+--------------------------------------------------------------------------------
+
 A desktop application that splits a formatted Excel template into individual workbooks for each owner, organized in folders by department.
 
 ## Features
